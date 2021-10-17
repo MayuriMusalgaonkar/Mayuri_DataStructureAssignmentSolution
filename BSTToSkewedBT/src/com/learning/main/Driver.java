@@ -15,18 +15,18 @@ public class Driver
 	public static void main (String[] args)
 	{
 	//input BST	
-	//           5
+	//               50
 	//	        / \
-	//        30   60
-    //	     /  \
-	//	    10   40
+	//            30   60
+       //	     /     /
+	//	    10   55
 	
 		
 		 node = new Node(50);
 		 node.left = new Node(30);
-		 node.left.right= new Node(40);
-		 node.right = new Node(60);
 		 node.left.left = new Node(10);
+		 node.right = new Node(60);		
+		 node.right.left= new Node(55);
 		 
 	
 		// Order of the Skewed tree can be 0 for ascending order -		
