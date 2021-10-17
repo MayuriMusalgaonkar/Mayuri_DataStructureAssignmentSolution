@@ -1,8 +1,8 @@
-# Mayuri_DataStructureAssignmentSolution
+**# Mayuri_DataStructureAssignmentSolution
 
-1.SkyScraperBuilding Construction----
+**1.SkyScraperBuilding Construction----
 
-Your friend is a chief architect, who is working on building a skyscraper, in Mumbai. The
+**Your friend is a chief architect, who is working on building a skyscraper, in Mumbai. The
 construction is in such a way that the floors will be constructed in other factories and they will be
 assembled. All the sizes will be distinct.
 The skyscraper needs to be constructed in N days with the following conditions:
@@ -54,3 +54,4 @@ A new business requirement has arrived where the BST should not contain any left
 You are required to modify the existing BST and display the node values present in ascending
 order.
 Hint: ( Convert the Binary Search Tree into a Skewed Tree)
+******************
